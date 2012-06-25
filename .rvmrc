@@ -1,1 +1,11 @@
-rvm use 1.9.2
+
+patched_ruby_string="ruby-1.9.3-p0-perf"
+
+if rvm list strings | grep -q "${patched_ruby_string}"; then
+   rvm ruby-1.9.3-p0-perf
+else
+   rvm ruby-1.9.3-p0
+fi
+
+PATH=./bin:$PATH
+
