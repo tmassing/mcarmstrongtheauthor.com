@@ -26,8 +26,20 @@
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="m. c. armstrong" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css" />
+
+<!-- Nivo Slider -->
+<link rel="stylesheet" href="/stylesheets/nivo-slider/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/stylesheets/nivo-slider/themes/default/default.css" type="text/css" media="screen" />
+<script src="/javascripts/jquery.min.js" type="text/javascript"></script>
+<script src="/javascripts/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+<!-- Revert jQuery's '$' alias, to avoid clashes with ender.js. NOTE: Use -->
+<!-- jQuery(...), instead of $(...) from here on. -->
+<script type="text/javascript">
+  jQuery.noConflict();
+</script>
 
   
 
@@ -61,6 +73,19 @@
   <div id="main">
     <div id="content">
       <div class="blog-index">
+  <div id="image-highlights">
+    <div class="slider-wrapper theme-default">
+      <div class="ribbon"></div>
+      <div id="slider" class="nivoSlider">
+        <a href="http://dev7studios.com"><img src="images/slide1.jpg" alt="" title="#slide1-caption" /></a>
+        <img src="images/slide2.jpg" alt="" title="" />
+        <img src="images/slide3.jpg" alt="" title="Ken Kesey was stuck on the tracks in his mother’s old Pontiac, his daugter Shannon and his son Jed and his dog Pretzels in the car with him, when a train came through and &quot;ripped away everything from the backdoor back and sent the rest spinning down West Q.&quot;" />
+      </div>
+    </div>
+    <div id="slide1-caption" class="nivo-html-caption">
+      In <em>The Seventy-third Virgin</em>, The Colonel played an American woman.  He stood naked in a garden in the movie’s most famous moment.  He faced a warrior also played by himself, and this warrior was also naked.  He was lost.  He had lost count.  He, like the viewer, had been through virgin after virgin, the variety in flesh slowly lost in the sameness of the scenery, the same lock of legs, the same leopard curling through the floral thickets, the same bluebird always on the shoulder of the post-coital corpse, for in The Colonel’s interpretation of heaven, the virgins must die.  There must be a moment where the warrior, discharged of his nacreous nectar, can walk empty and alone into the arms of the one everlasting creator, also played by The Colonel.
+    </div>
+  </div>
   
   
   
@@ -296,6 +321,38 @@
 
 
 
+
+<script type="text/javascript">
+  jQuery(window).load(function() {
+    jQuery('#slider').nivoSlider({
+      effect: 'random',
+      animSpeed: 1000,
+      pauseTime: 30000
+    });
+  });
+</script>
+<!-- $('#slider').nivoSlider({ -->
+<!--         effect: 'random', // Specify sets like: 'fold,fade,sliceDown' -->
+<!--         slices: 15, // For slice animations -->
+<!--         boxCols: 8, // For box animations -->
+<!--         boxRows: 4, // For box animations -->
+<!--         animSpeed: 500, // Slide transition speed -->
+<!--         pauseTime: 3000, // How long each slide will show -->
+<!--         startSlide: 0, // Set starting Slide (0 index) -->
+<!--         directionNav: true, // Next & Prev navigation -->
+<!--         controlNav: true, // 1,2,3... navigation -->
+<!--         controlNavThumbs: false, // Use thumbnails for Control Nav -->
+<!--         pauseOnHover: true, // Stop animation while hovering -->
+<!--         manualAdvance: false, // Force manual transitions -->
+<!--         prevText: 'Prev', // Prev directionNav text -->
+<!--         nextText: 'Next', // Next directionNav text -->
+<!--         randomStart: false, // Start on a random slide -->
+<!--         beforeChange: function(){}, // Triggers before a slide transition -->
+<!--         afterChange: function(){}, // Triggers after a slide transition -->
+<!--         slideshowEnd: function(){}, // Triggers after all slides have been shown -->
+<!--         lastSlide: function(){}, // Triggers when last slide is shown -->
+<!--         afterLoad: function(){} // Triggers when slider has loaded -->
+<!--     }); -->
 
 
 </body>
