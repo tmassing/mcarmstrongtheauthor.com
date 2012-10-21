@@ -4,10 +4,17 @@
 html
   background: $page-bg image-url('background.jpg') top left
 
-body > header
-  background: $header-bg image-url('header-background.png') top left
-  h2
-    font-size: 0.6em
+body
+  header
+    background: $header-bg image-url('header-background.png') top left
+    h2
+      font-size: 0.6em
+  #main
+    #content
+      .blog-index
+        #image-highlights
+          width: 800px
+          margin: 20px auto 0px auto
 
 article h1
   margin-bottom: 0.5em

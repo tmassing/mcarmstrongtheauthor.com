@@ -1,8 +1,20 @@
 ---
 layout: default
 ---
-
 <div class="blog-index">
+  <div id="image-highlights">
+    <div class="slider-wrapper theme-default">
+      <div class="ribbon"></div>
+      <div id="slider" class="nivoSlider">
+        <a href="http://dev7studios.com"><img src="images/slide1.jpg" alt="" title="#slide1-caption" /></a>
+        <img src="images/slide2.jpg" alt="" title="" />
+        <img src="images/slide3.jpg" alt="" title="Ken Kesey was stuck on the tracks in his mother’s old Pontiac, his daugter Shannon and his son Jed and his dog Pretzels in the car with him, when a train came through and &quot;ripped away everything from the backdoor back and sent the rest spinning down West Q.&quot;" />
+      </div>
+    </div>
+    <div id="slide1-caption" class="nivo-html-caption">
+      In <em>The Seventy-third Virgin</em>, The Colonel played an American woman.  He stood naked in a garden in the movie’s most famous moment.  He faced a warrior also played by himself, and this warrior was also naked.  He was lost.  He had lost count.  He, like the viewer, had been through virgin after virgin, the variety in flesh slowly lost in the sameness of the scenery, the same lock of legs, the same leopard curling through the floral thickets, the same bluebird always on the shoulder of the post-coital corpse, for in The Colonel’s interpretation of heaven, the virgins must die.  There must be a moment where the warrior, discharged of his nacreous nectar, can walk empty and alone into the arms of the one everlasting creator, also played by The Colonel.
+    </div>
+  </div>
   {% assign index = true %}
   {% for post in paginator.posts %}
   {% assign content = post.content %}

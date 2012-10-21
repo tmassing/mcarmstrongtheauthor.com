@@ -19,4 +19,3 @@ Is Freud’s certitude suspect, perhaps the result of a coke-fueled ego?  Perhap
 “You’re the only journalist we’ve ever seen who smiled for his photograph.”
 
 Does that make me a fool?  Perhaps.  Do I sometimes enjoy playing the fool?  I do.  There’s no place in the world too dark for a smile.
-
