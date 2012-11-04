@@ -1,12 +1,10 @@
 ---
 layout: page
-# title: "Biography"
+title: biography
 comments: false
 sharing: false
 footer: false
 ---
-
-# Biography
 
 I’m interested in the extremes of American life.   As a writer, I think it’s important to experience those extremes in order to write about them effectively.  I admire authors like Ernest Hemingway, Chris Hedges, Jack Kerouac, Norman Mailer, William Vollman, and Ken Kesey, men who have risked their lives and sanity in order to bring us a greater awareness of the world.  I think good writing is worth that risk.
 
