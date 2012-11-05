@@ -1,26 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.mcarmstrongtheauthor.com/blog/2012/06/25/the-seventy-fourth-virgin/</loc>
-        <lastmod>2012-09-21T18:58:15-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.mcarmstrongtheauthor.com/blog/2012/06/25/convergence-review/</loc>
-        <lastmod>2012-09-21T18:58:15-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.mcarmstrongtheauthor.com/blog/2012/06/25/viva-la-muerte/</loc>
-        <lastmod>2012-09-21T18:58:15-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://www.mcarmstrongtheauthor.com/blog/2012/06/25/1996/</loc>
-        <lastmod>2012-10-21T15:07:33-04:00</lastmod>
-    </url>
-    <url>
         <loc>
-            http://www.mcarmstrongtheauthor.com/blog/2012/06/25/between-the-sailor-and-the-sail/
+            http://www.mcarmstrongtheauthor.com/blog/2012/11/04/welcome-to-mcarmstrongtheauthor-dot-com/
         </loc>
-        <lastmod>2012-09-21T18:58:15-04:00</lastmod>
+        <lastmod>2012-11-04T19:24:16-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.mcarmstrongtheauthor.com/biography/</loc>
@@ -28,22 +12,54 @@
     </url>
     <url>
         <loc>http://www.mcarmstrongtheauthor.com/blog/archives/</loc>
-        <lastmod>2012-10-21T16:00:34-04:00</lastmod>
+        <lastmod>2012-11-04T19:24:16-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/blog/</loc>
+        <lastmod>2012-11-04T19:24:16-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.mcarmstrongtheauthor.com/</loc>
-        <lastmod>2012-10-21T15:26:30-04:00</lastmod>
+        <lastmod>2012-11-04T19:26:18-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.mcarmstrongtheauthor.com/interviews/</loc>
-        <lastmod>2012-10-21T16:00:34-04:00</lastmod>
+        <lastmod>2012-11-04T17:09:27-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/interviews/winchester-star-2008.html</loc>
+        <lastmod>2012-11-04T17:17:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.mcarmstrongtheauthor.com/music/</loc>
-        <lastmod>2012-10-21T16:00:34-04:00</lastmod>
+        <lastmod>2012-11-04T17:07:25-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/music/viva-la-muerte.html</loc>
+        <lastmod>2012-11-04T16:59:47-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/works/1996.html</loc>
+        <lastmod>2012-11-04T15:59:07-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/works/between-the-sailor-and-the-sail.html</loc>
+        <lastmod>2012-11-04T17:13:53-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/works/convergence-review.html</loc>
+        <lastmod>2012-11-04T16:09:40-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.mcarmstrongtheauthor.com/works/</loc>
-        <lastmod>2012-10-21T16:25:39-04:00</lastmod>
+        <lastmod>2012-11-04T16:33:51-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/works/iraq-journalism.html</loc>
+        <lastmod>2012-11-04T17:11:41-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.mcarmstrongtheauthor.com/works/the-seventy-fourth-virgin.html</loc>
+        <lastmod>2012-11-04T15:59:20-05:00</lastmod>
     </url>
 </urlset>
