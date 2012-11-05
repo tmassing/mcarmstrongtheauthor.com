@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="blog-index">
+<div class="index">
   <div id="image-highlights">
     <div class="slider-wrapper theme-default">
       <div class="ribbon"></div>
@@ -15,22 +15,11 @@ layout: default
       In <em>The Seventy-third Virgin</em>, The Colonel played an American woman.  He stood naked in a garden in the movie’s most famous moment.  He faced a warrior also played by himself, and this warrior was also naked.  He was lost.  He had lost count.  He, like the viewer, had been through virgin after virgin, the variety in flesh slowly lost in the sameness of the scenery, the same lock of legs, the same leopard curling through the floral thickets, the same bluebird always on the shoulder of the post-coital corpse, for in The Colonel’s interpretation of heaven, the virgins must die.  There must be a moment where the warrior, discharged of his nacreous nectar, can walk empty and alone into the arms of the one everlasting creator, also played by The Colonel.
     </div>
   </div>
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
+  {% if site.welcome %}
+    <article role="article">
+      <p>{{ site.welcome }}</p>
     </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
+  {% endif %}
 </div>
 <aside class="sidebar">
   {% if site.blog_index_asides.size %}
