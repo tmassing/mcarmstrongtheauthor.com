@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "The Seventy-fourth Virgin"
+title: "A Skeleton Key to The Grateful Dead in the Music of Ryan Adams"
 comments: false
 sharing: false
 footer: false
 ---
 
-"The Seventy-fourth Virgin" in [The Pushcart Prize Anthology](http://www.amazon.com/The-Pushcart-Prize-XXXVII-Presses/dp/1888889659/ref=sr_1_1?ie=UTF8&qid=1340576696&sr=8-1&keywords=pushcart+prize+xxxvii)
+"A Skeleton Key to The Grateful Dead in the Music of Ryan Adams." [Reading the Grateful Dead: A Critical Survey](http://www.amazon.com/Reading-Grateful-Dead-Critical-Survey/dp/0810883716/ref=sr_1_1?s=books&ie=UTF8&qid=1356040454&sr=1-1&keywords=reading+the+grateful+dead)
 
 Long Description... Bacon ipsum dolor sit amet tenderloin short loin speck, capicola jowl prosciutto flank venison corned beef biltong. Bresaola filet mignon chuck meatloaf pork chop beef ribs. Corned beef beef turkey turducken. Cow bacon pork loin kielbasa, pig beef ribs andouille frankfurter jerky.
 

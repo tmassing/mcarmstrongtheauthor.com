@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "The Seventy-fourth Virgin"
+title: "Hesca"
 comments: false
 sharing: false
 footer: false
 ---
 
-"The Seventy-fourth Virgin" in [The Pushcart Prize Anthology](http://www.amazon.com/The-Pushcart-Prize-XXXVII-Presses/dp/1888889659/ref=sr_1_1?ie=UTF8&qid=1340576696&sr=8-1&keywords=pushcart+prize+xxxvii)
+"Hesca." [The Esquire Four](http://www.amazon.com/The-Esquire-Four-Fiction-ebook/dp/B00AFGVJBI/ref=sr_1_1?ie=UTF8&qid=1356040077&sr=8-1&keywords=the+esquire+four)
 
 Long Description... Bacon ipsum dolor sit amet tenderloin short loin speck, capicola jowl prosciutto flank venison corned beef biltong. Bresaola filet mignon chuck meatloaf pork chop beef ribs. Corned beef beef turkey turducken. Cow bacon pork loin kielbasa, pig beef ribs andouille frankfurter jerky.
 
