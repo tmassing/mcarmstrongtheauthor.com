@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: music-page
 title: music
 comments: false
 sharing: false
