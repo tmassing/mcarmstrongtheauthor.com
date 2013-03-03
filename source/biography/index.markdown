@@ -17,3 +17,15 @@ Is Freud’s certitude suspect, perhaps the result of a coke-fueled ego?  Perhap
 “You’re the only journalist we’ve ever seen who smiled for his photograph.”
 
 Does that make me a fool?  Perhaps.  Do I sometimes enjoy playing the fool?  I do.  There’s no place in the world too dark for a smile.
+
+I come from comic roots.  One of my ancestors, Archibald, was a jester in the court of King James VI.
+
+My parents nearly aborted me.  My mother was several months along with yours truly when she received a paralyzing case of food poisoning thanks to a bad piece of red snapper.  Luckily (for me), I lived, and was born in Ann Arbor, Michigan, on August 4th, 1977.  Yes, I share a birthday with our President.  We’re both Leos—a couple of strong-willed men who know how to detach, for good and ill.
+
+My parents moved our family to the Shenandoah Valley when I was still a baby, and that’s where I grew up—Winchester, Virginia.  Winchester’s the birthplace of Patsy Cline, and back in the day, Patsy’s mother was a babysitter of mine.  Patsy wasn’t exactly loved while she was alive, but she’s the rose of the town now, which seems to be the way it always goes with artists…
+
+I loved growing up in Winchester, the regal absurdity of our annual Apple Blossom Festival, the increasingly strange phenomenon of celebrating the blooming of orchards that no longer exist.  Winchester’s a fascinating place.  We’re ten minutes from the West Virginia border on the one hand, and about an hour from DC on the other, the young men who grow up in Funchester often a cross between the redneck and the metro-sexual, many of us a bit schizo as we try to negotiate modern life with a love for both the wilderness and the city, order and chaos.
+
+After leaving Winchester for school, I was lucky enough to study fiction under George Garrett at UVA and Fred Chappell at UNCG.  The advice Garrett gave me when I asked what I needed to do to make it as a writer, is still the best advice I’ve ever heard on the subject:
+
+“Last,” he said.  “Last.”
